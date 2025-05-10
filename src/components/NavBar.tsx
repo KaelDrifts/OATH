@@ -70,7 +70,7 @@ const NavBar = () => {
               Developers
             </a>
             <a 
-              href="https://t.me/OATH_management" 
+              href="https://github.com/KaelDrifts/OATH" 
               target="_blank" 
               rel="noopener noreferrer" 
               className="text-[#3f1c08] hover:text-[#a26320] font-medium transition-colors"
