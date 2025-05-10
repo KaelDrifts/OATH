@@ -23,7 +23,7 @@ const NavBar = () => {
 
   const handleDevelopersClick = (e: React.MouseEvent) => {
     e.preventDefault();
-    window.open('https://github.com/KaelDrifts/OATH-AI', '_blank');
+    window.open('https://github.com/KaelDrifts/OATH', '_blank');
   };
 
   const handleApiDocsClick = (e: React.MouseEvent) => {
