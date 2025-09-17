@@ -19,7 +19,7 @@ info:
 
 servers:
   - url: https://auth.example.com/api/v1/oath
-
+//
 paths:
   /generate:
     post:
